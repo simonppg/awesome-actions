@@ -273,6 +273,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 #### Linting
 
+- [Super Linter](https://github.com/github/super-linter)
 - [PHP Coding Standards Fixer Action](https://github.com/OskarStark/php-cs-fixer-ga)
 - [Runs Hadolint against a Dockerfile within a repository](https://github.com/burdzwastaken/hadolint-action)
 - [Run ESLint, with reviewdog output on the PR](https://github.com/reviewdog/action-eslint)
